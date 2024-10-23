@@ -32,5 +32,5 @@ class heroiDaAventura{
     }
 }
     
-    let novoHeroi = new heroiDaAventura("Heitis", 19, "ninja");
+    let novoHeroi = new heroiDaAventura("Jason", 78, "guerreiro");
     novoHeroi.ler()
